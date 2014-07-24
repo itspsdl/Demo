@@ -182,6 +182,8 @@ BluetoothのSPPプロファイルを用いて，
 ### ProveEverywhere
 #### 安武 祥平 (amutake)
 
+[リポジトリ](https://github.com/amutake/prove-everywhere)
+
 Android 上で Coq の開発環境を提供するアプリ。
 coqtop サーバを用意し、そこと通信をする。coqtop サーバは Haskell で実装。
 
