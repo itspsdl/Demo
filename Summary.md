@@ -22,7 +22,7 @@
 
 
 ### センサーを用いたカメラ画像加工フィルタ
-#### 加藤 裕也 ([GitHub](https://github.com/ykato-sdl))
+#### 加藤 裕也 ([GitHub](https://github.com/ykato-sdl/SnapFinger))
 
 * 照度センサーを用いて周囲の明るさに応じた画像処理をカメラで撮影した画像に対して行う．
   - 例：周囲が暗いなら画像輝度やコントラストの補正を行う
@@ -34,32 +34,32 @@
 
 
 ### ディスプレイ縦横切り替え
-#### 中村誠希 ([GitHub](https://github.com/Yoshiki-Nakamura))
+#### 中村誠希 ([GitHub](https://github.com/Yoshiki-Nakamura/RotationManager))
 
 誤作動の多い自動回転機能の操作方法に別のモーションを与えることで誤作動を解消することを目指す
 
 
 ### 楽器（仮）
-#### 伊藤 翔一朗 (ittooo66)
+#### 伊藤 翔一朗 ([GitHub](https://github.com/ittooo66/SDL-KADAI))
 
 デバイスの姿勢データなどを元に音を出力する楽器のような何か
 
 
 ### ドミニオン ランダマイザ
-#### 大村 悠太 ([GitHub](https://github.com/y-omura))
+#### 大村 悠太 ([GitHub](https://github.com/y-omura/dominit))
 
 ボードゲーム「ドミニオン」のゲーム開始時に必要な、
 カードのランダムピックを自動的に行う。
 
 
 ### MC機能付き目覚まし
-#### 長田 真裕 ([GitHub](https://github.com/masascii))
+#### 長田 真裕 ([GitHub](https://github.com/masascii/SDL))
 
 目覚ましで起きなかったらTwitterで誰かに「電話して起こしてほしい」旨を記したリプライを送ることでモーニングコールをしてもらうアプリケーション
 
 
 ### ホテル検索アプリ
-#### 小島 健太 (oshimad8)
+#### 小島 健太 ([GitHub](https://github.com/oshimad8/HotelSearch))
 
 1. 位置情報を利用した現在地付近検索：
 現在地の緯度経度をホテル検索APIに渡す
@@ -94,7 +94,7 @@
 
 
 ### 自動マナー
-#### 玉泉 隆嗣 ([GitHub](https://github.com/tamaizumi))
+#### 玉泉 隆嗣 ([GitHub](https://github.com/tamaizumi/LocationManner))
 
 位置情報およびスケジュールを用いた自動マナーモードきりかえアプリ
 
@@ -106,27 +106,27 @@
 
 
 ### 簡単ツイート
-#### 根岸 由 ([GitHub](https://github.com/negi-hunter))
+#### 根岸 由 ([GitHub](https://github.com/negi-hunter/SDL))
 
 登録した内容をワンタッチで簡単にツイートできるアプリ。挨拶などの毎日
 するような定型文ツイートを手助けします。
 
 
 ### With Kenta
-#### 原 健太 (hellokenta1024)
+#### 原 健太 ([GitHub](https://github.com/hellokenta1024/WithKenta)
 
 ユーザに検索ワードを入力させると、そのキーワードと原健太をGoogleにてAND検索する。
 
 
 ### FareColle
-##### 藤田 大介 (dtan4)
+##### 藤田 大介 ([GitHub](https://github.com/dtan4/FareColle))
 
 NFC リーダで Suica 等の交通系 IC カードを読み取り、残高履歴を端末に保管する。
 保管した履歴は端末上でグラフとしての可視化や、クラウドサービス（別途製作）へのアップロードが行える。
 
 
 ### BTPingPong
-#### 保坂 智之 ([GitHub](https://github.com/tondol))
+#### 保坂 智之 ([GitHub](https://github.com/tondol/BTPingPong))
 
 BluetoothのSPPプロファイルを用いて，
 2台のAndroid端末間でping pongが遊べるアプリ．
@@ -134,7 +134,7 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### 引きこもり防止目覚まし
-#### 牧原 健太郎 ([GitHub](https://github.com/yuseipen))
+#### 牧原 健太郎 ([GitHub](https://github.com/yuseipen/HikkyAlarm))
 
 アラームが鳴った時の位置情報を取得して、鳴ってから指定時間後に再び位置情報を取得、
 位置情報が変わっていなかったら再びアラームを鳴らすアプリ
@@ -158,7 +158,7 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### 回転迷路
-#### 南川 富 ([GitHub](https://github.com/minamikawa))
+#### 南川 富 ([GitHub](https://github.com/minamikawa/TrunLabyrinth))
 
 回転センサを用いた迷路ゲーム。
 タップやボタンによる基本操作は一切なく（オプションやポーズなどの機能の実装の予定はある）、回転させることでボールを転がして迷路を攻略させていく。
@@ -167,20 +167,20 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### バーチャルシューティング
-#### 陽 文樹 ([GitHub](https://github.com/fminami))
+#### 陽 文樹 ([GitHub](https://github.com/fminami/VirtualShooter))
 
 仮想空間上における簡単な射的ゲーム。
 でき得る限りセンサーを利用したインターフェースを予定。
 
 
 ### 散歩補助アプリ
-#### 宮邉 祐太郎 ([GitHub](https://github.com/yu-chan-m))
+#### 宮邉 祐太郎 ([GitHub](https://github.com/yu-chan-m/town))
 
 スタート地点からどれくらいの距離を移動したかを測るアプリ．
 
 
 ### ProveEverywhere
-#### 安武 祥平 ([GitHub](https://github.com/amutake))
+#### 安武 祥平 ([GitHub](https://github.com/amutake/prove-everywhere))
 
 Android 上で Coq の開発環境を提供するアプリ。
 coqtop サーバを用意し、そこと通信をする。coqtop サーバは Haskell で実装。
@@ -210,17 +210,17 @@ coqtop サーバを用意し、そこと通信をする。coqtop サーバは Ha
 見た目: [link](https://twitter.com/amutake_s/status/486528091750027265)
 
 外部と通信する部分: 
-coqtop サーバとの通信 ([GitHub](https://github.com/HTTP))
+coqtop サーバとの通信
 
 
 ### Book Info Viewer
-#### 山口 賢一 ([GitHub](https://github.com/yked))
+#### 山口 賢一 ([GitHub](https://github.com/yked/BookInfoViewer))
 
 バーコードリーダーを用いて書籍のISBNを取得し、それをもとに本の情報をAmazonか楽天などのAPIを用いて取得して表示する。
 
 
 ### 地震Twitter
-#### 山森 章弘 (gecko655)
+#### 山森 章弘 ([GitHub](https://github.com/gecko655/earthquake))
 
 地震が起きた時に素早くツイート、リツイートを行なうためのアプリ
 
@@ -229,13 +229,13 @@ coqtop サーバとの通信 ([GitHub](https://github.com/HTTP))
 
 
 ### ちくわにも穴はあるんだよなぁ・・・
-#### ジョン ヨンジン (jsmn0428)
+#### ジョン ヨンジン ([GitHub](https://github.com/jsmn0428/there-is-a-hole-in-chikuwa))
 
 重力センサーを利用してボールを転がし画面上に置いといたちくわの穴に入れるゲームです
 
 
 ### Sharer
-#### キム ミンス ([GitHub](https://github.com/RossKim))
+#### キム ミンス ([GitHub](https://github.com/RossKim/Sharer))
 
 溢れているSNSに一回の送信で同時投稿できるAndroidアプリ．
 韓国と日本で流行っているFacebook, Twitter, KakaoStoryに投稿できる．
@@ -250,7 +250,7 @@ coqtop サーバとの通信 ([GitHub](https://github.com/HTTP))
 
 
 ### ProWeather
-#### チャン ハイ ダン (tranhaidang511)
+#### チャン ハイ ダン ([GitHub](https://github.com/itspsdl/ProWeather))
 
 天気情報を表示するアプリケーション
 
@@ -268,13 +268,13 @@ coqtop サーバとの通信 ([GitHub](https://github.com/HTTP))
 
 
 ### 習慣管理アプリ
-#### 徳久 文彬 ([GitHub](https://github.com/tokuhisa))
+#### 徳久 文彬 ([GitHub](https://github.com/tokuhisa/LeadLife))
 
 散髪や爪切りなどの身体を清潔に保つための行動や，日用品の購入などのユーザーの低頻度な習慣の管理を行うアプリです．
 
 
 ### 論文チェッカー
-#### 木本 貴光 (ktpr1223)
+#### 木本 貴光 ([GitHub](https://github.com/ktpr1223/Demo))
 
 arXivの最新論文のチェック+α
 
