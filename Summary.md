@@ -8,7 +8,7 @@
 ## 10:50-11:38 セッション1 (48分・8名)
 
 ### これは人の名前を覚えるための補佐ツール（コレナマ）
-#### 小柳 拡夢 (Koyanagi-Hiromu)
+#### 小柳 拡夢 ([GitHub](https://github.com/Koyanagi-Hiromu))
 
 人の名前をなかなか覚えられないひとのためのアプリです．
 名前を当てるクイズを遊ぶことで、人の名前を覚えます．
@@ -22,7 +22,7 @@
 
 
 ### センサーを用いたカメラ画像加工フィルタ
-#### 加藤 裕也 (ykato-sdl)
+#### 加藤 裕也 ([GitHub](https://github.com/ykato-sdl))
 
 * 照度センサーを用いて周囲の明るさに応じた画像処理をカメラで撮影した画像に対して行う．
   - 例：周囲が暗いなら画像輝度やコントラストの補正を行う
@@ -34,7 +34,7 @@
 
 
 ### ディスプレイ縦横切り替え
-#### 中村誠希 (Yoshiki-Nakamura)
+#### 中村誠希 ([GitHub](https://github.com/Yoshiki-Nakamura))
 
 誤作動の多い自動回転機能の操作方法に別のモーションを与えることで誤作動を解消することを目指す
 
@@ -46,14 +46,14 @@
 
 
 ### ドミニオン ランダマイザ
-#### 大村 悠太 (y-omura)
+#### 大村 悠太 ([GitHub](https://github.com/y-omura))
 
 ボードゲーム「ドミニオン」のゲーム開始時に必要な、
 カードのランダムピックを自動的に行う。
 
 
 ### MC機能付き目覚まし
-#### 長田 真裕 (masascii)
+#### 長田 真裕 ([GitHub](https://github.com/masascii))
 
 目覚ましで起きなかったらTwitterで誰かに「電話して起こしてほしい」旨を記したリプライを送ることでモーニングコールをしてもらうアプリケーション
 
@@ -73,7 +73,7 @@
 
 
 ### 見知らぬ街で安心して迷子になるためのアプリ
-#### 北原 寛章 (gozagoza)
+#### 北原 寛章 ([GitHub](https://github.com/gozagoza))
 
 「迷子になりたい」という欲求がある。
 
@@ -94,19 +94,19 @@
 
 
 ### 自動マナー
-#### 玉泉 隆嗣 (tamaizumi)
+#### 玉泉 隆嗣 ([GitHub](https://github.com/tamaizumi))
 
 位置情報およびスケジュールを用いた自動マナーモードきりかえアプリ
 
 
 ### DenchiTweet
-#### 永井 光 (NagaiH)
+#### 永井 光 ([GitHub](https://github.com/NagaiH))
 
 端末の電池残量を監視し、設定した値になると予め設定しておいた内容をツイッターに投稿する
 
 
 ### 簡単ツイート
-#### 根岸 由 (negi-hunter)
+#### 根岸 由 ([GitHub](https://github.com/negi-hunter))
 
 登録した内容をワンタッチで簡単にツイートできるアプリ。挨拶などの毎日
 するような定型文ツイートを手助けします。
@@ -126,7 +126,7 @@ NFC リーダで Suica 等の交通系 IC カードを読み取り、残高履�
 
 
 ### BTPingPong
-#### 保坂 智之 (tondol)
+#### 保坂 智之 ([GitHub](https://github.com/tondol))
 
 BluetoothのSPPプロファイルを用いて，
 2台のAndroid端末間でping pongが遊べるアプリ．
@@ -134,7 +134,7 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### 引きこもり防止目覚まし
-#### 牧原 健太郎 (yuseipen)
+#### 牧原 健太郎 ([GitHub](https://github.com/yuseipen))
 
 アラームが鳴った時の位置情報を取得して、鳴ってから指定時間後に再び位置情報を取得、
 位置情報が変わっていなかったら再びアラームを鳴らすアプリ
@@ -147,7 +147,7 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### タイムカードシステム
-#### 松田 淳平 (jmatsu)
+#### 松田 淳平 ([GitHub](https://github.com/jmatsu))
 
 最低2台のAndroidを用いてソケット通信を行い，片方をサーバ，もう一方をクライアントとして動作させることを前提とする．初期設定を容易にするため，QRコードの読み取りを用いて自動で設定及び接続を行う．また初期設定以後，クライアント側は指定SSIDに繋いだことをhookとしてソケット通信を開始する．タイムカードとしての役割は
 
@@ -158,7 +158,7 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### 回転迷路
-#### 南川 富 (minamikawa)
+#### 南川 富 ([GitHub](https://github.com/minamikawa))
 
 回転センサを用いた迷路ゲーム。
 タップやボタンによる基本操作は一切なく（オプションやポーズなどの機能の実装の予定はある）、回転させることでボールを転がして迷路を攻略させていく。
@@ -167,20 +167,20 @@ BluetoothのSPPプロファイルを用いて，
 
 
 ### バーチャルシューティング
-#### 陽 文樹 (fminami)
+#### 陽 文樹 ([GitHub](https://github.com/fminami))
 
 仮想空間上における簡単な射的ゲーム。
 でき得る限りセンサーを利用したインターフェースを予定。
 
 
 ### 散歩補助アプリ
-#### 宮邉 祐太郎 (yu-chan-m)
+#### 宮邉 祐太郎 ([GitHub](https://github.com/yu-chan-m))
 
 スタート地点からどれくらいの距離を移動したかを測るアプリ．
 
 
 ### ProveEverywhere
-#### 安武 祥平 (amutake)
+#### 安武 祥平 ([GitHub](https://github.com/amutake))
 
 Android 上で Coq の開発環境を提供するアプリ。
 coqtop サーバを用意し、そこと通信をする。coqtop サーバは Haskell で実装。
@@ -210,11 +210,11 @@ coqtop サーバを用意し、そこと通信をする。coqtop サーバは Ha
 見た目: [link](https://twitter.com/amutake_s/status/486528091750027265)
 
 外部と通信する部分: 
-coqtop サーバとの通信 (HTTP)
+coqtop サーバとの通信 ([GitHub](https://github.com/HTTP))
 
 
 ### Book Info Viewer
-#### 山口 賢一 (yked)
+#### 山口 賢一 ([GitHub](https://github.com/yked))
 
 バーコードリーダーを用いて書籍のISBNを取得し、それをもとに本の情報をAmazonか楽天などのAPIを用いて取得して表示する。
 
@@ -235,7 +235,7 @@ coqtop サーバとの通信 (HTTP)
 
 
 ### Sharer
-#### キム ミンス (RossKim)
+#### キム ミンス ([GitHub](https://github.com/RossKim))
 
 溢れているSNSに一回の送信で同時投稿できるAndroidアプリ．
 韓国と日本で流行っているFacebook, Twitter, KakaoStoryに投稿できる．
@@ -256,19 +256,19 @@ coqtop サーバとの通信 (HTTP)
 
 
 ### 趣味マッチングアプリ
-#### 上野 篤史 (uenocpp)
+#### 上野 篤史 ([GitHub](https://github.com/uenocpp))
 
 アンドロイドビームで自分と相手の共通の趣味を見つける。
 
 
 ### クラウドムード
-#### 佐藤大地 (daichisato)
+#### 佐藤大地 ([GitHub](https://github.com/daichisato))
 
 気圧センサーを用いて、気圧を可視化する。
 
 
 ### 習慣管理アプリ
-#### 徳久 文彬 (tokuhisa)
+#### 徳久 文彬 ([GitHub](https://github.com/tokuhisa))
 
 散髪や爪切りなどの身体を清潔に保つための行動や，日用品の購入などのユーザーの低頻度な習慣の管理を行うアプリです．
 
@@ -280,7 +280,7 @@ arXivの最新論文のチェック+α
 
 
 ### Let's 満員電車
-#### 芦田 亮 (RyoAshida)
+#### 芦田 亮 ([GitHub](https://github.com/RyoAshida))
 
 満員電車に乗るのが苦痛なので，逆に満員電車に乗りたくなるようなアプリ．
 電車に乗ったときに周りの端末の数を数えて，数に応じて実績が解除される．
