@@ -8,7 +8,7 @@
 ## 10:50-11:38 セッション1 (48分・8名)
 
 ### これは人の名前を覚えるための補佐ツール（コレナマ）
-#### 小柳 拡夢 ([GitHub](https://github.com/Koyanagi-Hiromu))
+#### 小柳 拡夢 ([GitHub](https://github.com/Koyanagi-Hiromu/korehito))
 
 人の名前をなかなか覚えられないひとのためのアプリです．
 名前を当てるクイズを遊ぶことで、人の名前を覚えます．
